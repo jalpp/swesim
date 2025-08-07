@@ -6,6 +6,10 @@ A powerful multi-agent system that coordinates specialized AI agents to generate
 
 This project enables complete software project planning through coordinated AI agents using the Mastra framework. It provides automated design, architecture, and implementation planning for web applications, all orchestrated through a unified agent network.
 
+## Template
+
+This template provides easy to use agentnetwork that uses Mastra's tools, agents and agentnetwork that can be forked for personal needs, ex: changing backend from Typescript to Java or making Database agent use NoSQL instead of SQL
+
 ## Features
 
 * **Multi-Agent Coordination**: Four specialized agents working in sequence
@@ -116,5 +120,5 @@ swesim/
 ## Credits
 
 This project is built with:
-* **Mastra** - AI Agent framework
-* **OpenAI** - AI models for agent intelligence
+* [**Mastra**](https://mastra.ai/) - AI Agent framework
+* [**OpenAI**](https://openai.com/) - AI models for agent intelligence
