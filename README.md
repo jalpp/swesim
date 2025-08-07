@@ -21,7 +21,7 @@ This template provides easy to use agentnetwork that uses Mastra's tools, agents
 ## Installation
 
 **Prerequisites**
-* Node.js (v18+)
+* Node.js (v20+)
 * npm or yarn
 * OpenAI API access
 
