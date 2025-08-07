@@ -2,9 +2,9 @@
 
 A powerful multi-agent system that coordinates specialized AI agents to generate comprehensive software implementation decision reports for full-stack applications.
 
-## Overview
+## Usecase
+This project aims to solve the problem of brainstorming how an full stack app would like just from having an idea, this project helps developers explore ideas agents present to them via decision reports and change agents according to stack they use in development. It enables complete software project planning through coordinated AI agents using the Mastra framework. It provides automated design, architecture, and implementation planning for web applications, all orchestrated through a unified agent network.
 
-This project enables complete software project planning through coordinated AI agents using the Mastra framework. It provides automated design, architecture, and implementation planning for web applications, all orchestrated through a unified agent network.
 
 ## Template
 
