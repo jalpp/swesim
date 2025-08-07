@@ -113,6 +113,7 @@ swesim/
 ├── mastra/
 │   ├── agents/        # Agent definitions and configurations
 │   └── network/       # Coordinator network implementation
+│   └── tools/       # tools implementation
 
 ```
 
